@@ -21,4 +21,4 @@ SmallestAmongThreeNumber(10,11,12);
 SmallestAmongThreeNumber(11,10,12);
 SmallestAmongThreeNumber(11,12,10);
 SmallestAmongThreeNumber(10,10,10);
-SmallestAmongThreeNumber(9,10,9);
+SmallestAmongThreeNumber(3,1,6);
